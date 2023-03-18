@@ -39,6 +39,21 @@ Liste des mots réserver en C
         <th>auto<th>
         <th>Break<th>
         <th>case<th>
+          <th>auto<th>
+        <th>Break<th>
+        <th>case<th>  
+        <th>auto<th>
+        <th>Break<th>
+        <th>else<th>  
+        <th>long<th>
+        <th>switch<th>
+        <th>union<th>  
+        <th>enum<th>
+        <th>register<th>
+        <th>typedef<th>  
+        <th>extern<th>
+        <th>return<th>
+        <th>union<th>
     <!-- <tr> -->
      <th>
         <tr>auto<tr>
@@ -56,8 +71,6 @@ Liste des mots réserver en C
     <tr>
 <table>
 
-|Auto|break|case| auto	|else|long|switch|case|extern|return|union|enum|register|	typedef|case|extern	return	union|
-<!-- | ---|---|---|---| -->
 | auto	|else|long|switch|
 <!-- |---|---|--- |---| -->
 |case|extern|return|union|
