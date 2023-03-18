@@ -40,11 +40,11 @@ Liste des mots réserver en C
         <th>Break<th>
         <th>case<th>
     <tr>
-     <tr>
-        <th>auto<th>
-        <th>Break<th>
-        <th>case<th>
-    <tr>
+     <th>
+        <tr>auto<tr>
+        <tr>Break<tr>
+        <tr>case<tr>
+    <th>
      <tr>
         <th>auto<th>
         <th>Break<th>
