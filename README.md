@@ -53,43 +53,23 @@ Liste des mots réserver en C
         <th>typedef<th>  
         <th>extern<th>
         <th>return<th>
-        <th>union<th>
-    <!-- <tr> -->
-     <th>
-        <tr>auto<tr>
-        <tr>Break<tr>
-        <tr>case<tr>
-    <th>
-     <tr>
-        <th>auto<th>
-        <th>Break<th>
-        <th>case<th>
-    <tr> <tr>
-        <th>auto<th>
-        <th>Break<th>
-        <th>case<th>
-    <tr>
+        <th>unsigned<th>
+        <th>float<th>
+        <th>short<th>
+        <th>signed<th>
+        <th>void<th>
+        <th>for<th>
+        <th>continue<th>
+        <th>goto<th>
+        <th>default<th>
+        <th>sizeofvolatile<th>
+        <th>if<th>
+        <th>int<th>
+        <th>do<th>
+        <th>_Packed<th>
+        <th>break<th>
+        <th>double<th>        
 <table>
-
-| auto	|else|long|switch|
-<!-- |---|---|--- |---| -->
-|case|extern|return|union|
-<!-- | ---|---|---|---|---|---| -->
-|enum|register|	typedef|
-<!-- | ---  |---|---|---|---|---| -->
-|case|extern	return	union
-<!-- | ---  |---|---|---|---|---| -->
-|char	|float	short	unsigned
-<!-- | ---  |---|---|---|---|---| -->
-|const	|for	signed	void
-<!-- | ---|---|---|---|---|---| -->
-|continue|goto|sizeofvolatile|
-<!-- | ---  |---|---|---|---|---| -->
-|default|if	|static	|while|
-<!-- | ---  |---|---|---|---|---| -->
-|do	int	|struct	_Packed|
-<!-- | ---  |---|---|---|---|---| -->
-|double |break|
 
 ### Espace Blanc en c
 
