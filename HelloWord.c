@@ -1,10 +1,7 @@
 #include <stdio.h>
 
-int main()
-{
-    printf("\nDoing By Annette Bwemere I like Pizza And You?\n\n");
-    printf("Its reallyGood");
-    printf("I line it");
-
+int main() {
+    /*my first program in c*/
+    printf("Hello, Word!\n");
     return 0;
 }
