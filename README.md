@@ -53,3 +53,6 @@ Liste des mots réserver en C
 |default|	if	static	while
 |do	int	|struct	_Packed|
 |double |
+
+### Espace Blanc en c
+une ligne ne contenant que des espaces blancs; éventuellement avec un commentaire, est connue comme une ligne vide ,et un complilateur *C* L'ignore totalement"
