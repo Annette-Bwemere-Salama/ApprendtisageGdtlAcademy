@@ -55,4 +55,16 @@ Liste des mots réserver en C
 |double |
 
 ### Espace Blanc en c
+
 une ligne ne contenant que des espaces blancs; éventuellement avec un commentaire, est connue comme une ligne vide ,et un complilateur *C* L'ignore totalement"
+
+Les espaces Blancs sont les terme utilisé en C pour décrire les blancs, les tabulations;les caractères de saut de ligne et les commentaires.les espaces Blanc séparent une paryie d'une instruction d'une autre et permettent au complilateur d'indentifier ou un élement dans une instruction , comme int, se termine et l'élement suivant commence .Par Conséquent, Dans l'énonc" suivant-
+
+```int age;
+```
+il doit y avoir au moins un caractère d'espacelent(généralement un espace) entre int et age pour que le complilateur puisse les distinguer .D'autre part;Dans l"énoncé suivant:
+
+```fruit = apples + oranges; //get the total fuit
+```
+
+aucun caractère d'espacement n'est nécessaire entre fruit et =, ou entre = et pommes, bien que vous soyez libre d'en inclure si vous souhaitez augmenter la lisibilité.
