@@ -35,11 +35,13 @@ Un Identificateur Commence par une lettre \*[A-Z,a-z]* ou un trait de souligneme
 Liste des mots réserver en C
 
 <table>
-    <!-- <tr> -->
+    <td>
         <th>auto<th>
         <th>Break<th>
         <th>case<th>
           <th>auto<th>
+    <td>
+    <td>
         <th>Break<th>
         <th>case<th>  
         <th>auto<th>
@@ -47,6 +49,7 @@ Liste des mots réserver en C
         <th>else<th>  
         <th>long<th>
         <th>switch<th>
+     <td>   
         <th>union<th>  
         <th>enum<th>
         <th>register<th>
