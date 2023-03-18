@@ -42,7 +42,7 @@ Liste des mots réserver en C
     <tr>
 <table>
 
-|Auto|break|case|
+|Auto|break|case| auto	|else|long|switch|case|extern|return|union|enum|register|	typedef|case|extern	return	union|
 <!-- | ---|---|---|---| -->
 | auto	|else|long|switch|
 <!-- |---|---|--- |---| -->
