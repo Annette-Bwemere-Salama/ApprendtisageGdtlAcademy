@@ -43,16 +43,26 @@ Liste des mots réserver en C
 <table>
 
 |Auto   |break  |case   |
-| ---   |:-:    |:-:    |:-:
-|auto	|else	long	switch
-|break	|enum	register	typedef
-|case	|extern	return	union
+| ---|---|---|---|
+| auto	|else|long|switch|
+|---|---|--- |---|
+|case|extern|return|union|
+| ---|---|---|---|---|---|
+|enum|register|	typedef|
+| ---  |---|---|---|---|---|
+|case|extern	return	union
+| ---  |---|---|---|---|---|
 |char	|float	short	unsigned
+| ---  |---|---|---|---|---|
 |const	|for	signed	void
-|continue|	goto	sizeof	volatile
-|default|	if	static	while
+| ---|---|---|---|---|---|
+|continue|goto|sizeofvolatile|
+| ---  |---|---|---|---|---|
+|default|if	|static	|while|
+| ---  |---|---|---|---|---|
 |do	int	|struct	_Packed|
-|double |
+| ---  |---|---|---|---|---|
+|double |break|
 
 ### Espace Blanc en c
 
@@ -68,3 +78,13 @@ il doit y avoir au moins un caractère d'espacelent(généralement un espace) en
 ```
 
 aucun caractère d'espacement n'est nécessaire entre fruit et =, ou entre = et pommes, bien que vous soyez libre d'en inclure si vous souhaitez augmenter la lisibilité.
+
+
+## Types de données
+
+Ls types de données en c font réference à un système étendu utiisé pour déclarer des variables ou des fonctions de differents types.le type d"une variable détermine l'espace qu"elle occupe dans le stockage et la façon dont le modèle stocké est intérpreté.
+
+
+
+En c Les types en c Peuvent être clasées comme suit:
+
